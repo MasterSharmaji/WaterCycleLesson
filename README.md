@@ -7,7 +7,7 @@ Welcome to our science lesson on the **Water Cycle**! In this README, you'll lea
 ## What is the Water Cycle?
 The water cycle, also called the hydrologic cycle, is the continuous movement of water on, above, and below Earth's surface. It’s powered by the sun and involves several key processes.
 
-![Diagram showing the water cycle processes](assets/images/2025-09-01T193346.760.jpeg)
+![Diagram showing the water cycle processes](assets/images%20-%202025-09-01T193346.760.jpeg)
 ## Key Processes in the Water Cycle
 Here’s how water moves through the cycle:
 
