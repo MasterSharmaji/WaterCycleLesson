@@ -14,7 +14,7 @@ Here’s how water moves through the cycle:
 1. **Evaporation**:
    - Water from oceans, rivers, and lakes turns into water vapor due to heat from the sun.
    - Fun fact: Plants also release water vapor through **transpiration**!
-   - ![Evaporation process in the water cycle](assets/evaporation.jpeg)
+   - ![Evaporation process in the water cycle](assets/Evaporation.jpeg)
 2. **Condensation**:
    - Water vapor cools in the atmosphere and forms tiny water droplets, creating clouds.
    - Example: Think of fog on a cold glass of water—that’s condensation!
